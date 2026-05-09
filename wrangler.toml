@@ -6,18 +6,16 @@ compatibility_date = "2026-05-02"
 # --- worker环境变量配置 ---
 [vars]
 # VLESS 的 UUID
-UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
+UUID = "637f06d1-e2f8-4bb1-a93c-403e9cd71355"
 # Trojan 的密码
-PASSWORD = "666"
+PASSWORD = "637f06d1-e2f8-4bb1-a93c-403e9cd71355"
 # SS使用aes128gcm加密的密码
-SSPASS = "666"
+SSPASS = "637f06d1-e2f8-4bb1-a93c-403e9cd71355"
 # S5和HTTP 入站验证用户名 
-S5HTTPUSER = "admin"
+S5HTTPUSER = "mtfxyn"
 # S5和HTTP入站验证密码
-S5HTTPPASS = "123456"
-# 付费worker 可设置cpu时间限制
-[limits]
-cpu_ms = 300000
+S5HTTPPASS = "Zhuyuzheng2009"
+
 
 [observability]
 enabled = false
